@@ -1,0 +1,7 @@
+C:\Users\91859\source\repos\QuestTrainingB2\NameArray\bin\Debug\NameArray.exe.config
+C:\Users\91859\source\repos\QuestTrainingB2\NameArray\bin\Debug\NameArray.exe
+C:\Users\91859\source\repos\QuestTrainingB2\NameArray\bin\Debug\NameArray.pdb
+C:\Users\91859\source\repos\QuestTrainingB2\NameArray\obj\Debug\NameArray.csproj.AssemblyReference.cache
+C:\Users\91859\source\repos\QuestTrainingB2\NameArray\obj\Debug\NameArray.csproj.CoreCompileInputs.cache
+C:\Users\91859\source\repos\QuestTrainingB2\NameArray\obj\Debug\NameArray.exe
+C:\Users\91859\source\repos\QuestTrainingB2\NameArray\obj\Debug\NameArray.pdb

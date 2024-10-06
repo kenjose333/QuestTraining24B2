@@ -1,0 +1,7 @@
+C:\Users\91859\source\repos\QuestTrainingB2\stringbuilder\obj\Debug\stringbuilder.csproj.AssemblyReference.cache
+C:\Users\91859\source\repos\QuestTrainingB2\stringbuilder\obj\Debug\stringbuilder.csproj.CoreCompileInputs.cache
+C:\Users\91859\source\repos\QuestTrainingB2\stringbuilder\bin\Debug\stringbuilder.exe.config
+C:\Users\91859\source\repos\QuestTrainingB2\stringbuilder\bin\Debug\stringbuilder.exe
+C:\Users\91859\source\repos\QuestTrainingB2\stringbuilder\bin\Debug\stringbuilder.pdb
+C:\Users\91859\source\repos\QuestTrainingB2\stringbuilder\obj\Debug\stringbuilder.exe
+C:\Users\91859\source\repos\QuestTrainingB2\stringbuilder\obj\Debug\stringbuilder.pdb
