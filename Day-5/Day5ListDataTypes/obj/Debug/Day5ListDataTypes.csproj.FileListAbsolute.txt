@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-5\Day5ListDataTypes\obj\Debug\Day5ListDataTypes.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-5\Day5ListDataTypes\obj\Debug\Day5ListDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-5\Day5ListDataTypes\bin\Debug\Day5ListDataTypes.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-5\Day5ListDataTypes\bin\Debug\Day5ListDataTypes.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-5\Day5ListDataTypes\bin\Debug\Day5ListDataTypes.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-5\Day5ListDataTypes\obj\Debug\Day5ListDataTypes.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-5\Day5ListDataTypes\obj\Debug\Day5ListDataTypes.pdb

@@ -3,15 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3996895F-F483-4965-B40E-A64F93C26E84}|..\\Day-5\\Day-5Dictionary\\Day-5Dictionary.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F064FA8C-A373-47AB-88D1-C8E54B54F182}|..\\Day-5\\Day-5ListDataTypesProblem2\\Day-5ListDataTypesProblem2.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5listdatatypesproblem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BB7A952-4D15-4D73-8DFB-191D0685A23B}|..\\Day-5\\Day5ListDataTypes\\Day5ListDataTypes.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day5listdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{704430EE-4B3D-47BD-831F-3CBA8E0770AA}|..\\Day-5\\Day5.DateTime\\Day5.DateTime.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day5.datetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|solutionrelative:namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\utilities\\mathutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B588EAAE-87E8-421B-83BF-3EE786D807AD}|..\\Day 4\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day 4\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E01AA01D-8933-45FC-B149-CF05B89A75D9}|stringbuilder\\stringbuilder.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E01AA01D-8933-45FC-B149-CF05B89A75D9}|stringbuilder\\stringbuilder.csproj|solutionrelative:stringbuilder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|solutionrelative:namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A9A89C9A-EADB-44B4-9DD2-B6ACE32B6504}|CSharpBasics\\CSharpBasics.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\csharpbasics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,6 +52,97 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day-5\\Day-5Dictionary\\Program.cs",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Program.cs",
+              "RelativeToolTip": "..\\Day-5\\Day-5Dictionary\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T10:44:46.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5ListDataTypesProblem2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day-5\\Day-5ListDataTypesProblem2\\Program.cs",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5ListDataTypesProblem2\\Program.cs",
+              "RelativeToolTip": "..\\Day-5\\Day-5ListDataTypesProblem2\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T09:34:08.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day5ListDataTypes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day-5\\Day5ListDataTypes\\Program.cs",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day5ListDataTypes\\Program.cs",
+              "RelativeToolTip": "..\\Day-5\\Day5ListDataTypes\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:48:31.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day5.DateTime\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day-5\\Day5.DateTime\\Program.cs",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day5.DateTime\\Program.cs",
+              "RelativeToolTip": "..\\Day-5\\Day5.DateTime\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:47:22.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MathUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
+              "RelativeDocumentMoniker": "..\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
+              "RelativeToolTip": "..\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T04:07:37.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Utilities.cs",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Utilities\\Utilities.cs",
+              "RelativeDocumentMoniker": "..\\Day-5\\Day-5\\Utilities\\Utilities.cs",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Utilities\\Utilities.cs",
+              "RelativeToolTip": "..\\Day-5\\Day-5\\Utilities\\Utilities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:57:51.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Day-5\\Day-5\\Program.cs",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Program.cs",
+              "RelativeToolTip": "..\\Day-5\\Day-5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T03:49:27.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 4\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day 4\\ConsoleApp1\\Program.cs",
               "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 4\\ConsoleApp1\\Program.cs",
@@ -42,7 +154,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\stringbuilder\\Program.cs",
               "RelativeDocumentMoniker": "stringbuilder\\Program.cs",
@@ -50,23 +162,25 @@
               "RelativeToolTip": "stringbuilder\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:47:58.622Z"
+              "WhenOpened": "2024-10-04T08:47:58.622Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\NameArray\\Program.cs",
               "RelativeDocumentMoniker": "NameArray\\Program.cs",
               "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\NameArray\\Program.cs",
               "RelativeToolTip": "NameArray\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAgAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T04:51:25.752Z"
+              "WhenOpened": "2024-10-04T04:51:25.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\CSharpBasics\\Program.cs",
               "RelativeDocumentMoniker": "CSharpBasics\\Program.cs",
