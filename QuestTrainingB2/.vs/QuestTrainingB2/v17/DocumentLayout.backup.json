@@ -18,7 +18,7 @@
       "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|solutionrelative:namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -54,9 +54,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day-5\\Day-5Dictionary\\Program.cs",
-              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Program.cs*",
-              "RelativeToolTip": "..\\Day-5\\Day-5Dictionary\\Program.cs*",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Program.cs",
+              "RelativeToolTip": "..\\Day-5\\Day-5Dictionary\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T10:44:46.393Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "..\\Day-5\\Day-5ListDataTypesProblem2\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:34:08.018Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T09:34:08.018Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "..\\Day-5\\Day5ListDataTypes\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:48:31.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T08:48:31.752Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "..\\Day-5\\Day5.DateTime\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T04:47:22.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T04:47:22.414Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "..\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T04:07:37.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T04:07:37.546Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "..\\Day-5\\Day-5\\Utilities\\Utilities.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T03:57:51.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T03:57:51.931Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "..\\Day-5\\Day-5\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T03:49:27.666Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-07T03:49:27.666Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "..\\Day 4\\ConsoleApp1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T12:24:51.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T12:24:51.694Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "stringbuilder\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T08:47:58.622Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T08:47:58.622Z"
             },
             {
               "$type": "Document",
@@ -175,8 +167,7 @@
               "RelativeToolTip": "NameArray\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAwwBMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T04:51:25.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-04T04:51:25.752Z"
             },
             {
               "$type": "Document",

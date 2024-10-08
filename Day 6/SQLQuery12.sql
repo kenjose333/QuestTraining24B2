@@ -1,0 +1,6 @@
+﻿CREATE TABLE courses(
+std_id INT PRIMARY KEY,
+name VARCHAR(50) NOT NULL,
+courses VARCHAR(50) NOT NULL,
+fees INT NOT NULL
+)
