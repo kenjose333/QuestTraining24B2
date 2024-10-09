@@ -1,0 +1,122 @@
+Q. What is Normalization in MS SQL?
+A. Normalization in MS SQL (or any relational database) is a process of organizing data in a database to minimize redundancy and improve data integrity. The main goal is to structure the database in a way that dependencies between data are logical and the relationships between tables are clear.
+
+Q. First Normal Form (1NF)
+A. Objective: Ensure that the table has only atomic (indivisible) values and each entry in a column contains unique and singular values.
+Rules:
+Each table cell must contain a single value (no arrays or multiple values in one cell).
+Each record needs to be unique (no duplicate rows).
+
+Q. Second Normal Form (2NF)
+A. Objective: Remove partial dependencies (i.e., when a non-key attribute is dependent on part of a composite primary key).
+Rules:
+The table must be in 1NF.
+Non-key attributes must depend on the whole primary key, not just part of it.
+
+Q. Third Normal Form (3NF)
+A. Objective: Eliminate transitive dependencies (i.e., when a non-key attribute depends on another non-key attribute).
+Rules:
+The table must be in 2NF.
+Non-key attributes should not depend on other non-key attributes.
+
+Q. Boyce-Codd Normal Form (BCNF)
+A. Objective: A stricter version of 3NF that handles certain types of anomalies that 3NF doesn’t address.
+Rules:
+The table must be in 3NF.
+Every determinant must be a candidate key. (A determinant is any attribute on which some other attribute is fully functionally dependent.)
+
+Q. DDL
+A. DDL (Data Definition Language) commands are used to define, modify, and manage the structure of database objects such as tables, indexes, views, schemas, etc. These commands focus on the schema and structure of the database rather than the data itself.
+ CREATE
+The CREATE command is used to create new database objects such as tables, views, indexes, and schemas.
+ ALTER
+The ALTER command is used to modify an existing database object. This can involve adding, deleting, or modifying columns or constraints.
+ DROP
+The DROP command is used to delete existing database objects, such as tables, views, or indexes. When an object is dropped, all its data and structure are removed from the database.
+ TRUNCATE
+The TRUNCATE command is used to remove all records from a table, but it does not remove the table's structure (unlike DROP). It is faster than DELETE because it doesn’t generate individual row delete logs.
+ RENAME
+The RENAME command is used to change the name of an existing database object, such as a table.
+
+Q. DML
+A. DML (Data Manipulation Language) commands are used to manage data within database tables. These commands allow you to insert, update, delete, and retrieve data from tables. DML commands focus on manipulating the actual data in the database, rather than its structure.
+ INSERT
+The INSERT command is used to add new records (rows) into a table. 
+ UPDATE
+The UPDATE command is used to modify existing records in a table. You can specify which rows to update using the WHERE clause.
+ DELETE
+The DELETE command is used to remove one or more rows from a table.
+ SELECT
+The SELECT command is used to query and retrieve data from tables. You can use filters with the WHERE clause, as well as specify sorting and grouping options.
+
+Q. DCL
+A. DCL (Data Control Language) commands are used to control access to data in a database. These commands manage permissions and ensure that the right users have the appropriate levels of access to data and database objects.
+ GRANT
+The GRANT command is used to provide specific users with permissions or privileges to perform operations on database objects like tables, views, procedures, etc.
+ REVOKE
+The REVOKE command is used to remove previously granted permissions from a user or role.
+
+Q. TCL
+A. TCL (Transaction Control Language) commands are used to manage transactions in a database. Transactions are sequences of operations performed as a single logical unit of work, and TCL commands help control these transactions to maintain data integrity.
+ COMMIT
+The COMMIT command is used to save all changes made in the current transaction to the database permanently.
+ ROLLBACK
+The ROLLBACK command is used to undo all changes made in the current transaction if there is an error or if the user wants to cancel the transaction.
+ SAVEPOINT
+The SAVEPOINT command creates a point within a transaction to which you can roll back later without rolling back the entire transaction.
+
+Q. WHERE Clause
+The WHERE clause is used to filter records in SQL statements based on specified conditions. It helps retrieve only those rows that meet the criteria.
+
+Q. ORDER BY Clause
+The ORDER BY clause is used to sort the result set of a query by one or more columns. You can sort data in ascending (ASC) or descending (DESC) order.
+
+Q. JOINS
+Joins are used to combine records from two or more tables based on related columns. The main types of joins are:
+
+INNER JOIN:
+Returns records that have matching values in both tables.
+
+LEFT JOIN (LEFT OUTER JOIN):
+Returns all records from the left table and matched records from the right table. If there is no match, NULL values are returned for columns from the right table.
+
+RIGHT JOIN (RIGHT OUTER JOIN):
+Returns all records from the right table and matched records from the left table. If there is no match, NULL values are returned for columns from the left table.
+
+FULL JOIN (FULL OUTER JOIN):
+Returns records when there is a match in either left or right table records. If there is no match, NULL values are returned for the missing side.
+
+Q. GROUP BY Clause and HAVING Clause
+GROUP BY:
+The GROUP BY clause groups rows that have the same values in specified columns into summary rows. It is often used with aggregate functions (like SUM, COUNT, etc.).
+
+Q. HAVING:
+The HAVING clause is used to filter records after a GROUP BY operation. It is similar to the WHERE clause but is used with aggregate functions.
+
+Q. AGGREGATE FUNCTIONS
+Aggregate functions perform calculations on a set of values and return a single value. Common aggregate functions include:
+COUNT(): Counts the number of rows.
+SUM(): Calculates the total sum of a numeric column.
+AVG(): Calculates the average value of a numeric column.
+MIN(): Returns the smallest value in a set.
+MAX(): Returns the largest value in a set.
+
+Q. TRIGGERS
+A trigger is a set of instructions that are automatically executed (or fired) in response to certain events on a particular table or view, such as INSERT, UPDATE, or DELETE.
+
+Q. Views and Functions
+
+Views:
+A view is a virtual table that is based on the result of a SELECT query. It does not store data physically but provides a way to simplify complex queries and present data in a specific format.
+
+Functions:
+A function is a stored procedure that returns a single value or a table and can be used in SQL statements. Functions can take parameters and perform computations or operations.
+
+Q. DISTINCT
+The DISTINCT keyword is used in a SELECT statement to remove duplicate records from the result set.
+
+Q. CREATE INDEX
+An index is a database object that improves the speed of data retrieval operations on a table at the cost of additional storage space and increased maintenance time during updates.
+
+
+
