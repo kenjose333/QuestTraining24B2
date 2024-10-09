@@ -9,6 +9,12 @@
       "AbsoluteMoniker": "D:0:0:{F064FA8C-A373-47AB-88D1-C8E54B54F182}|..\\Day-5\\Day-5ListDataTypesProblem2\\Day-5ListDataTypesProblem2.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5listdatatypesproblem2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\utilities\\mathutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4BB7A952-4D15-4D73-8DFB-191D0685A23B}|..\\Day-5\\Day5ListDataTypes\\Day5ListDataTypes.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day5listdatatypes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -20,12 +26,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779FEB4E-C001-4BF5-AF2C-8CA907782BCE}|NameArray\\NameArray.csproj|solutionrelative:namearray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\utilities\\mathutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED3C2242-BC1B-470F-A567-D43DC23242AE}|..\\Day-5\\Day-5\\Day-5.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day-5\\day-5\\utilities\\utilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B588EAAE-87E8-421B-83BF-3EE786D807AD}|..\\Day 4\\ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\day 4\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "..\\Day-5\\Day-5Dictionary\\Program.cs",
               "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Program.cs",
               "RelativeToolTip": "..\\Day-5\\Day-5Dictionary\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAswBUAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-07T10:44:46.393Z",
               "EditorCaption": ""
@@ -71,11 +71,12 @@
               "RelativeToolTip": "..\\Day-5\\Day-5ListDataTypesProblem2\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T09:34:08.018Z"
+              "WhenOpened": "2024-10-07T09:34:08.018Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day5ListDataTypes\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day-5\\Day5ListDataTypes\\Program.cs",
@@ -83,11 +84,12 @@
               "RelativeToolTip": "..\\Day-5\\Day5ListDataTypes\\Program.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAkwBUAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T08:48:31.752Z"
+              "WhenOpened": "2024-10-07T08:48:31.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day5.DateTime\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day-5\\Day5.DateTime\\Program.cs",
@@ -99,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "MathUtilities.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
               "RelativeDocumentMoniker": "..\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
@@ -107,11 +109,12 @@
               "RelativeToolTip": "..\\Day-5\\Day-5\\Utilities\\MathUtilities.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T04:07:37.546Z"
+              "WhenOpened": "2024-10-07T04:07:37.546Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 3,
               "Title": "Utilities.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Utilities\\Utilities.cs",
               "RelativeDocumentMoniker": "..\\Day-5\\Day-5\\Utilities\\Utilities.cs",
@@ -119,11 +122,12 @@
               "RelativeToolTip": "..\\Day-5\\Day-5\\Utilities\\Utilities.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-07T03:57:51.931Z"
+              "WhenOpened": "2024-10-07T03:57:51.931Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day-5\\Day-5\\Program.cs",
@@ -159,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\NameArray\\Program.cs",
               "RelativeDocumentMoniker": "NameArray\\Program.cs",
