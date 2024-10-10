@@ -3,19 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 6\\SqlAssignment2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\AppData\\Local\\Temp\\t3osjxpw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-7\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 6\\SqlAssignment2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-7\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 6\\SqlAssignment2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\AppData\\Local\\Temp\\t3osjxpw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\AppData\\Local\\Temp\\t3osjxpw..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,37 +34,39 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.appointments [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.appointments.sql",
-              "ToolTip": "dbo.appointments [Data]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-09T04:44:49.814Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.patients [Data]",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.patients.sql",
-              "ToolTip": "dbo.patients [Data]",
+              "Title": "Stored_procedure_problem.sql ",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql",
+              "RelativeDocumentMoniker": "..\\Day-8\\Stored_procedure_problem.sql",
+              "ToolTip": "Stored_procedure_problem.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-09T04:35:25.443Z",
+              "WhenOpened": "2024-10-10T09:12:19.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SqlAssignment2.sql ",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 6\\SqlAssignment2.sql",
-              "RelativeDocumentMoniker": "..\\Day 6\\SqlAssignment2.sql",
-              "ToolTip": "SqlAssignment2.sql ",
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\91859\\AppData\\Local\\Temp\\t3osjxpw..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\t3osjxpw..sql",
+              "ToolTip": "SQLQuery1.sql *",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-09T04:32:36.938Z",
+              "WhenOpened": "2024-10-10T04:23:16.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SQLQuery2.sql ",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-7\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\Day-7\\SQLQuery2.sql",
+              "ToolTip": "SQLQuery2.sql ",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-10-09T05:43:45.354Z",
               "EditorCaption": ""
             }
           ]

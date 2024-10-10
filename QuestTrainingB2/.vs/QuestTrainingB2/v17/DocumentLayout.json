@@ -3,16 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 6\\SqlAssignment2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.patients.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-7\\SQLQuery2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.appointments.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 6\\SqlAssignment2.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,35 +19,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "dbo.appointments.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.appointments.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.appointments.sql",
+              "DocumentIndex": 0,
+              "Title": "Stored_procedure_problem.sql ",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql",
+              "RelativeDocumentMoniker": "..\\Day-8\\Stored_procedure_problem.sql",
+              "ToolTip": "Stored_procedure_problem.sql ",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-09T04:44:49.814Z"
+              "WhenOpened": "2024-10-10T09:12:19.046Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "dbo.patients.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.patients.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_LocalDB__MSSQLLocalDB/C__USERS_91859_DOCUMENTS_MYDB.MDF/True/SqlTable/dbo.patients.sql",
+              "Title": "SQLQuery2.sql",
+              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-7\\SQLQuery2.sql",
+              "RelativeDocumentMoniker": "..\\Day-7\\SQLQuery2.sql",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-7\\SQLQuery2.sql",
+              "RelativeToolTip": "..\\Day-7\\SQLQuery2.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-09T04:35:25.443Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SqlAssignment2.sql ",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day 6\\SqlAssignment2.sql",
-              "RelativeDocumentMoniker": "..\\Day 6\\SqlAssignment2.sql",
-              "ToolTip": "SqlAssignment2.sql ",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-09T04:32:36.938Z",
+              "WhenOpened": "2024-10-09T05:43:45.354Z",
               "EditorCaption": ""
             }
           ]
