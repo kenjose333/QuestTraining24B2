@@ -43,6 +43,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assesment1", "Assesment1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalManagementTest1", "Assesment1\HospitalManagementTest1\HospitalManagementTest1.csproj", "{3991A3C6-5476-43A5-91DB-534E199E2B7F}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Assesments.", "Assesments.", "{EADAB1BF-D529-477D-879C-429BD80D8115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assesment1-HospitalManagementTest1", "Assesment1-HospitalManagementTest1\Assesment1-HospitalManagementTest1.csproj", "{CEE6D89F-D2F9-4C00-B635-ADF4E92E4DC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -97,6 +101,10 @@ Global
 		{3991A3C6-5476-43A5-91DB-534E199E2B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3991A3C6-5476-43A5-91DB-534E199E2B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3991A3C6-5476-43A5-91DB-534E199E2B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE6D89F-D2F9-4C00-B635-ADF4E92E4DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE6D89F-D2F9-4C00-B635-ADF4E92E4DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE6D89F-D2F9-4C00-B635-ADF4E92E4DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE6D89F-D2F9-4C00-B635-ADF4E92E4DC5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,6 +122,7 @@ Global
 		{A41C729A-149F-4EF4-BDA5-25D569947F04} = {63AC2D50-61DF-42A2-8F14-8C91DFDC2B52}
 		{D80442C7-AF8F-4E7F-B3F4-0C53EDF7607B} = {0AF942D1-67B4-4129-B26D-BE5553468F77}
 		{3991A3C6-5476-43A5-91DB-534E199E2B7F} = {D80442C7-AF8F-4E7F-B3F4-0C53EDF7607B}
+		{CEE6D89F-D2F9-4C00-B635-ADF4E92E4DC5} = {EADAB1BF-D529-477D-879C-429BD80D8115}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40381A39-761F-41D2-AEC1-FE8865694F48}
