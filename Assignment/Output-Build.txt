@@ -1,5 +1,0 @@
-﻿Build started at 07:07 PM...
-1>------ Build started: Project: Assesment1-HospitalManagementTest1, Configuration: Debug Any CPU ------
-1>  Assesment1-HospitalManagementTest1 -> C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1-HospitalManagementTest1\bin\Debug\Assesment1-HospitalManagementTest1.exe
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Build completed at 07:08 PM and took 03.953 seconds ==========
