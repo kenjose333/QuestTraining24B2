@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1\HospitalManagementTest1\bin\Debug\HospitalManagementTest1.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1\HospitalManagementTest1\bin\Debug\HospitalManagementTest1.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1\HospitalManagementTest1\bin\Debug\HospitalManagementTest1.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1\HospitalManagementTest1\obj\Debug\HospitalManagementTest1.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1\HospitalManagementTest1\obj\Debug\HospitalManagementTest1.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1\HospitalManagementTest1\obj\Debug\HospitalManagementTest1.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\Assesment1\HospitalManagementTest1\obj\Debug\HospitalManagementTest1.pdb
