@@ -3,43 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}|CardDetailsproblem\\CardDetailsproblem.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\carddetailsproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}|CardDetailsproblem\\CardDetailsproblem.csproj|solutionrelative:carddetailsproblem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}|CardDetailsproblem\\CardDetailsproblem.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\carddetailsproblem\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}|CardDetailsproblem\\CardDetailsproblem.csproj|solutionrelative:carddetailsproblem\\creditcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D620CBE3-8F8C-4127-A8D7-26F4B6E9EBE7}|OopsIntro\\OopsIntro.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\oopsintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D620CBE3-8F8C-4127-A8D7-26F4B6E9EBE7}|OopsIntro\\OopsIntro.csproj|solutionrelative:oopsintro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CF9399CF-EBEA-4287-9228-653632748521}|StudentArray\\StudentArray.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\studentarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF9399CF-EBEA-4287-9228-653632748521}|StudentArray\\StudentArray.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\studentarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9399CF-EBEA-4287-9228-653632748521}|StudentArray\\StudentArray.csproj|solutionrelative:studentarray\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF9399CF-EBEA-4287-9228-653632748521}|StudentArray\\StudentArray.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\studentarray\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF9399CF-EBEA-4287-9228-653632748521}|StudentArray\\StudentArray.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\studentarray\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9399CF-EBEA-4287-9228-653632748521}|StudentArray\\StudentArray.csproj|solutionrelative:studentarray\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A707F95C-4738-4185-8330-345D3FE9305A}|Student_ problem\\Student_ problem.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\student_ problem\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A707F95C-4738-4185-8330-345D3FE9305A}|Student_ problem\\Student_ problem.csproj|solutionrelative:student_ problem\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D633018-A35F-4B32-9318-AD2675B51502}|Calculator\\Calculator.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\calculator\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D633018-A35F-4B32-9318-AD2675B51502}|Calculator\\Calculator.csproj|solutionrelative:calculator\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2D633018-A35F-4B32-9318-AD2675B51502}|Calculator\\Calculator.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\questtrainingb2\\calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D633018-A35F-4B32-9318-AD2675B51502}|Calculator\\Calculator.csproj|solutionrelative:calculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FCD5431A-0C02-43CF-A617-986A714050BC}|PracticeSession\\PracticeSession.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\practicesession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FCD5431A-0C02-43CF-A617-986A714050BC}|PracticeSession\\PracticeSession.csproj|solutionrelative:practicesession\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BF3ECC7-ABDB-4A75-BF9C-9E126DD6C24D}|..\\Assesment\\Test1\\Test1.csproj|c:\\users\\91859\\documents\\github\\questtraining24b2\\assesment\\test1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CEE6D89F-D2F9-4C00-B635-ADF4E92E4DC5}|Assesment1-HospitalManagementTest1\\Assesment1-HospitalManagementTest1.csproj|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\assesment1-hospitalmanagementtest1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -66,10 +39,7 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\bankProblem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Assesment\\Test1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -84,32 +54,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreditCard.cs",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\CardDetailsproblem\\CreditCard.cs",
-              "RelativeDocumentMoniker": "CardDetailsproblem\\CreditCard.cs",
-              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\CardDetailsproblem\\CreditCard.cs*",
-              "RelativeToolTip": "CardDetailsproblem\\CreditCard.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T10:50:15.634Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\CardDetailsproblem\\Program.cs",
-              "RelativeDocumentMoniker": "CardDetailsproblem\\Program.cs",
-              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\CardDetailsproblem\\Program.cs",
-              "RelativeToolTip": "CardDetailsproblem\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T10:49:01.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\StudentArray\\Student.cs",
               "RelativeDocumentMoniker": "StudentArray\\Student.cs",
@@ -122,7 +66,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\StudentArray\\Program.cs",
               "RelativeDocumentMoniker": "StudentArray\\Program.cs",
@@ -135,59 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Operation.cs",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Calculator\\Operation.cs",
-              "RelativeDocumentMoniker": "Calculator\\Operation.cs",
-              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Calculator\\Operation.cs",
-              "RelativeToolTip": "Calculator\\Operation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:01:20.911Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Calculator\\Program.cs",
-              "RelativeDocumentMoniker": "Calculator\\Program.cs",
-              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Calculator\\Program.cs",
-              "RelativeToolTip": "Calculator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T07:00:56.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "FileName.cs",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Student_ problem\\FileName.cs",
-              "RelativeDocumentMoniker": "Student_ problem\\FileName.cs",
-              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Student_ problem\\FileName.cs",
-              "RelativeToolTip": "Student_ problem\\FileName.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:27:01.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\OopsIntro\\Program.cs",
-              "RelativeDocumentMoniker": "OopsIntro\\Program.cs",
-              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\OopsIntro\\Program.cs",
-              "RelativeToolTip": "OopsIntro\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T06:22:13.864Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Assesment\\Test1\\Program.cs",
               "RelativeDocumentMoniker": "..\\Assesment\\Test1\\Program.cs",
@@ -195,12 +87,11 @@
               "RelativeToolTip": "..\\Assesment\\Test1\\Program.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAiwI4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:49:58.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:49:58.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Assesment1-HospitalManagementTest1\\Program.cs",
               "RelativeDocumentMoniker": "Assesment1-HospitalManagementTest1\\Program.cs",
@@ -208,12 +99,11 @@
               "RelativeToolTip": "Assesment1-HospitalManagementTest1\\Program.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAAmwJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T13:37:37.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T13:37:37.714Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Assesment1\\HospitalManagementTest1\\Program.cs",
               "RelativeDocumentMoniker": "Assesment1\\HospitalManagementTest1\\Program.cs",
@@ -221,12 +111,11 @@
               "RelativeToolTip": "Assesment1\\HospitalManagementTest1\\Program.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAAmwJwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:43:48.122Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:43:48.122Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\Assesment1\\Program.cs",
               "RelativeDocumentMoniker": "Assesment1\\Program.cs",
@@ -234,12 +123,11 @@
               "RelativeToolTip": "Assesment1\\Program.cs",
               "ViewState": "AgIAAGgAAAAAAAAAAAAswIQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:46:29.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:46:29.47Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\QuestTrainingB2\\PracticeSession\\Program.cs",
               "RelativeDocumentMoniker": "PracticeSession\\Program.cs",
@@ -247,12 +135,11 @@
               "RelativeToolTip": "PracticeSession\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:48:17.505Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T06:48:17.505Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Program.cs",
               "RelativeDocumentMoniker": "..\\Day-5\\Day-5Dictionary\\Program.cs",
@@ -260,12 +147,11 @@
               "RelativeToolTip": "..\\Day-5\\Day-5Dictionary\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T06:38:22.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T06:38:22.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 7,
               "Title": "Day-5Dictionary.csproj",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-5\\Day-5Dictionary\\Day-5Dictionary.csproj",
               "RelativeDocumentMoniker": "..\\Day-5\\Day-5Dictionary\\Day-5Dictionary.csproj",
@@ -273,30 +159,29 @@
               "RelativeToolTip": "..\\Day-5\\Day-5Dictionary\\Day-5Dictionary.csproj",
               "ViewState": "AgIAAB8AAAAAAAAAAABBwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-13T06:38:17.562Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T06:38:17.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "bankProblem.sql ",
+              "DocumentIndex": 8,
+              "Title": "bankProblem.sql",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\bankProblem.sql",
               "RelativeDocumentMoniker": "..\\Day-8\\bankProblem.sql",
-              "ToolTip": "bankProblem.sql ",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\bankProblem.sql",
+              "RelativeToolTip": "..\\Day-8\\bankProblem.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-10T15:53:37.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T15:53:37.861Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Stored_procedure_problem.sql ",
+              "DocumentIndex": 9,
+              "Title": "Stored_procedure_problem.sql",
               "DocumentMoniker": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql",
               "RelativeDocumentMoniker": "..\\Day-8\\Stored_procedure_problem.sql",
-              "ToolTip": "Stored_procedure_problem.sql ",
+              "ToolTip": "C:\\Users\\91859\\Documents\\GitHub\\QuestTraining24B2\\Day-8\\Stored_procedure_problem.sql",
+              "RelativeToolTip": "..\\Day-8\\Stored_procedure_problem.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-10T09:12:19.046Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T09:12:19.046Z"
             }
           ]
         }

@@ -63,6 +63,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentArray", "StudentArra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CardDetailsproblem", "CardDetailsproblem\CardDetailsproblem.csproj", "{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "12", "12", "{E67149F1-3ABC-4618-8543-4D5DA5330539}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trial", "..\Day-10\trial\trial.csproj", "{67284084-6308-4CB9-81D5-9394A174CA9B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -145,6 +149,10 @@ Global
 		{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{739E85F4-7A2E-4685-85F2-6DA2460E3EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67284084-6308-4CB9-81D5-9394A174CA9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67284084-6308-4CB9-81D5-9394A174CA9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67284084-6308-4CB9-81D5-9394A174CA9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67284084-6308-4CB9-81D5-9394A174CA9B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,6 +177,7 @@ Global
 		{2D633018-A35F-4B32-9318-AD2675B51502} = {C1457458-275B-4DC4-B0D6-66D7CB6D5374}
 		{CF9399CF-EBEA-4287-9228-653632748521} = {C1457458-275B-4DC4-B0D6-66D7CB6D5374}
 		{739E85F4-7A2E-4685-85F2-6DA2460E3EA0} = {C1457458-275B-4DC4-B0D6-66D7CB6D5374}
+		{67284084-6308-4CB9-81D5-9394A174CA9B} = {E67149F1-3ABC-4618-8543-4D5DA5330539}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {40381A39-761F-41D2-AEC1-FE8865694F48}
