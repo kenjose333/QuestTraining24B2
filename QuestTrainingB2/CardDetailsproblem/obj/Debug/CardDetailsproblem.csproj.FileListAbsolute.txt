@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\CardDetailsproblem\obj\Debug\CardDetailsproblem.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\CardDetailsproblem\obj\Debug\CardDetailsproblem.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\CardDetailsproblem\bin\Debug\CardDetailsproblem.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\CardDetailsproblem\bin\Debug\CardDetailsproblem.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\CardDetailsproblem\bin\Debug\CardDetailsproblem.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\CardDetailsproblem\obj\Debug\CardDetailsproblem.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\CardDetailsproblem\obj\Debug\CardDetailsproblem.pdb

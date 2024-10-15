@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\StudentArray\obj\Debug\StudentArray.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\StudentArray\obj\Debug\StudentArray.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\StudentArray\bin\Debug\StudentArray.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\StudentArray\bin\Debug\StudentArray.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\StudentArray\bin\Debug\StudentArray.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\StudentArray\obj\Debug\StudentArray.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\QuestTrainingB2\StudentArray\obj\Debug\StudentArray.pdb
