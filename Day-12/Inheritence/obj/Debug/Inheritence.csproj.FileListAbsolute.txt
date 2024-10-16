@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-12\Inheritence\bin\Debug\Inheritence.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-12\Inheritence\bin\Debug\Inheritence.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-12\Inheritence\bin\Debug\Inheritence.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-12\Inheritence\obj\Debug\Inheritence.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-12\Inheritence\obj\Debug\Inheritence.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-12\Inheritence\obj\Debug\Inheritence.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-12\Inheritence\obj\Debug\Inheritence.pdb
