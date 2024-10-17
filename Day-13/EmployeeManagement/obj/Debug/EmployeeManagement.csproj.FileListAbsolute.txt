@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-13\EmployeeManagement\bin\Debug\EmployeeManagement.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-13\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-13\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-13\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-13\EmployeeManagement\obj\Debug\EmployeeManagement.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-13\EmployeeManagement\obj\Debug\EmployeeManagement.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-13\EmployeeManagement\obj\Debug\EmployeeManagement.pdb
