@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\MoreComplex\bin\Debug\MoreComplex.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\MoreComplex\bin\Debug\MoreComplex.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\MoreComplex\bin\Debug\MoreComplex.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\MoreComplex\obj\Debug\MoreComplex.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\MoreComplex\obj\Debug\MoreComplex.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\MoreComplex\obj\Debug\MoreComplex.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\MoreComplex\obj\Debug\MoreComplex.pdb

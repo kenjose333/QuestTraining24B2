@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\Problem15\bin\Debug\Problem15.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\Problem15\bin\Debug\Problem15.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\Problem15\bin\Debug\Problem15.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\Problem15\obj\Debug\Problem15.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\Problem15\obj\Debug\Problem15.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\Problem15\obj\Debug\Problem15.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-15\Problem15\obj\Debug\Problem15.pdb
