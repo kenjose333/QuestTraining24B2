@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-16\AfterNoon\bin\Debug\AfterNoon.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-16\AfterNoon\bin\Debug\AfterNoon.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-16\AfterNoon\bin\Debug\AfterNoon.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-16\AfterNoon\obj\Debug\AfterNoon.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-16\AfterNoon\obj\Debug\AfterNoon.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-16\AfterNoon\obj\Debug\AfterNoon.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-16\AfterNoon\obj\Debug\AfterNoon.pdb
