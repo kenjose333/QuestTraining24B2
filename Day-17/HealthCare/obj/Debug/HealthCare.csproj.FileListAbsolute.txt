@@ -1,0 +1,2 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-17\HealthCare\obj\Debug\HealthCare.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-17\HealthCare\obj\Debug\HealthCare.csproj.CoreCompileInputs.cache

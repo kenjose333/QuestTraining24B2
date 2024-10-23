@@ -1,0 +1,2 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-17\ref\obj\Debug\ref.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-17\ref\obj\Debug\ref.csproj.CoreCompileInputs.cache
