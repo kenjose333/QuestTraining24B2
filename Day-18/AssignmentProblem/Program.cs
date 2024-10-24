@@ -127,7 +127,7 @@ namespace AssignmentProblem
             }
         }
     }
-    public class DoctorRepository//stop here
+    public class DoctorRepository
     {
         public string connStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\91859\\Documents\\Exam.mdf;Integrated Security=True;Connect Timeout=30";
         public DoctorRepository()
@@ -267,7 +267,7 @@ namespace AssignmentProblem
             }
             else
             {
-                Console.WriteLine("patient not found");
+                Console.WriteLine("doctor not found");
 
             }
         }
