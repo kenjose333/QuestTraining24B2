@@ -31,21 +31,24 @@ namespace AssignmentProblem
         }
         public void CreatePatientsTable()
         {
-            var createTableQuery = @"CREATE TABLE Patients(
-                                    Id INT PRIMARY KEY IDENTITY,
-                                    Name VARCHAR(50) NOT NULL,
-                                    Age INT NOT NULL,
-                                    Gender VARCHAR(50) NOT NULL,
-                                    MedicalCondition VARCHAR(50) NOT NULL
-                                    )";
+            var createTableQuery = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Patients' AND xtype='U')
+                             CREATE TABLE Patients(
+                             Id INT PRIMARY KEY IDENTITY,
+                             Name VARCHAR(50) NOT NULL,
+                             Age INT NOT NULL,
+                             Gender VARCHAR(50) NOT NULL,
+                             MedicalCondition VARCHAR(50) NOT NULL
+                             )";
 
-            var conn = new SqlConnection(connStr);
-            var command = new SqlCommand(createTableQuery, conn);
-            if (conn.State == System.Data.ConnectionState.Closed)
+            using (var conn = new SqlConnection(connStr))
             {
-                conn.Open();
+                SqlCommand command = new SqlCommand(createTableQuery, conn);
+                if (conn.State == System.Data.ConnectionState.Closed)
+                {
+                    conn.Open();
+                }
+                command.ExecuteNonQuery();
             }
-            command.ExecuteNonQuery();
         }
         public void AddPatient(Patient patient)
         {
@@ -137,20 +140,23 @@ namespace AssignmentProblem
         //Dr
         public void CreateDoctorsTable()
         {
-            var createTableQuery = @"CREATE TABLE Doctors(
-                                    Id INT PRIMARY KEY IDENTITY,
-                                    Name VARCHAR(50) NOT NULL,
-                                    Specialization VARCHAR(50) NOTNULL,
-                                    PatientId  INT NOT NULL
-                                    )";
+            var createTableQuery = @"IF NOT EXISTS (SELECT * FROM sysobjects WHERE name='Doctors' AND xtype='U')
+                             CREATE TABLE Doctors(
+                             Id INT PRIMARY KEY IDENTITY,
+                             Name VARCHAR(50) NOT NULL,
+                             Specialization VARCHAR(50) NOT NULL,
+                             PatientId  INT NOT NULL
+                             )";
 
-            var conn = new SqlConnection(connStr);
-            var command = new SqlCommand(createTableQuery, conn);
-            if (conn.State == System.Data.ConnectionState.Closed)
+            using (var conn = new SqlConnection(connStr))
             {
-                conn.Open();
+                SqlCommand command = new SqlCommand(createTableQuery, conn);
+                if (conn.State == System.Data.ConnectionState.Closed)
+                {
+                    conn.Open();
+                }
+                command.ExecuteNonQuery();
             }
-            command.ExecuteNonQuery();
         }
         public void AddDoctor(Doctor doctor)
         {
@@ -204,7 +210,7 @@ namespace AssignmentProblem
                 SqlCommand command = new SqlCommand(query, conn);
                 command.Parameters.AddWithValue("@Name", doctor.Name);
                 command.Parameters.AddWithValue("@Specialization", doctor.Specialization);
-                command.Parameters.AddWithValue("PatientId", doctor.PatientId);
+                command.Parameters.AddWithValue("@PatientId", doctor.PatientId);
 
                 if (conn.State == System.Data.ConnectionState.Closed)
                 {
@@ -242,7 +248,7 @@ namespace AssignmentProblem
             var patient = repository.SearchByName("ken");
             if (patient != null)
             {
-                Console.WriteLine($"Name : {patient.Name},Age : {patient.Age},Gender : {patient.Gender},MedicalCondition : {patient.MedicalCondition}");
+                Console.WriteLine($"Name : {patient.Name}, Age : {patient.Age}, Gender : {patient.Gender}, MedicalCondition : {patient.MedicalCondition}");
                 patient.Name = "jose";
                 repository.UpdatePatient(patient);
                 Console.WriteLine("patient updated");
@@ -255,7 +261,7 @@ namespace AssignmentProblem
             }
             DoctorRepository repositoryy = new DoctorRepository();
             repositoryy.AddDoctor(new Doctor { Name = "mathew", Specialization = "cardiology", PatientId = 2 });
-            var doctor = repositoryy.SearchBydrName("Mathew");
+            var doctor = repositoryy.SearchBydrName("mathew");
             if (doctor != null)
             {
                 Console.WriteLine($"Name : {doctor.Name},Specialization : {doctor.Specialization},PatientId : {doctor.PatientId}");
