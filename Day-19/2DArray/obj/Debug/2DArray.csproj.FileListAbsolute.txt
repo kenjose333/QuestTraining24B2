@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-19\2DArray\bin\Debug\2DArray.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-19\2DArray\bin\Debug\2DArray.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-19\2DArray\bin\Debug\2DArray.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-19\2DArray\obj\Debug\2DArray.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-19\2DArray\obj\Debug\2DArray.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-19\2DArray\obj\Debug\2DArray.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-19\2DArray\obj\Debug\2DArray.pdb

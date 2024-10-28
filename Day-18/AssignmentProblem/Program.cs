@@ -24,7 +24,7 @@ namespace AssignmentProblem
     }
     public class PatientRepository
     {
-        public string connStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\91859\\Documents\\Exam.mdf;Integrated Security=True;Connect Timeout=30";
+        private string connStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\91859\\Documents\\Exam.mdf;Integrated Security=True;Connect Timeout=30";
         public PatientRepository()
         {
             CreatePatientsTable();
@@ -68,13 +68,13 @@ namespace AssignmentProblem
             }
         }
 
-        public Patient SearchByName(string input)
+        public Patient SearchByName(string namez)
         {
-            var query = "SELECT * FROM Patients WHERE Name =@Input";
+            var query = "SELECT * FROM Patients WHERE Name =@Namez";
             using (var conn = new SqlConnection(connStr))
             {
                 SqlCommand command = new SqlCommand(query, conn);
-                command.Parameters.AddWithValue("@Input", input);
+                command.Parameters.AddWithValue("@Namez", namez);
                 if (conn.State == System.Data.ConnectionState.Closed)
                 {
                     conn.Open();
@@ -132,7 +132,7 @@ namespace AssignmentProblem
     }
     public class DoctorRepository
     {
-        public string connStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\91859\\Documents\\Exam.mdf;Integrated Security=True;Connect Timeout=30";
+        private string connStr = "Data Source=(LocalDB)\\MSSQLLocalDB;AttachDbFilename=C:\\Users\\91859\\Documents\\Exam.mdf;Integrated Security=True;Connect Timeout=30";
         public DoctorRepository()
         {
             CreateDoctorsTable();

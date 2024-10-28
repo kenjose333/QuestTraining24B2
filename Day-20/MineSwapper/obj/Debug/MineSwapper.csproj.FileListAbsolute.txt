@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\MineSwapper\bin\Debug\MineSwapper.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\MineSwapper\bin\Debug\MineSwapper.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\MineSwapper\bin\Debug\MineSwapper.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\MineSwapper\obj\Debug\MineSwapper.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\MineSwapper\obj\Debug\MineSwapper.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\MineSwapper\obj\Debug\MineSwapper.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\MineSwapper\obj\Debug\MineSwapper.pdb

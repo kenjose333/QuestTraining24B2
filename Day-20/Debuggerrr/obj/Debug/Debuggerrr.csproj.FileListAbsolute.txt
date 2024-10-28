@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\Debuggerrr\bin\Debug\Debuggerrr.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\Debuggerrr\bin\Debug\Debuggerrr.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\Debuggerrr\bin\Debug\Debuggerrr.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\Debuggerrr\obj\Debug\Debuggerrr.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\Debuggerrr\obj\Debug\Debuggerrr.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\Debuggerrr\obj\Debug\Debuggerrr.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\Debuggerrr\obj\Debug\Debuggerrr.pdb

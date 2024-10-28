@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\StonePaperscisors\bin\Debug\StonePaperscisors.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\StonePaperscisors\bin\Debug\StonePaperscisors.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\StonePaperscisors\bin\Debug\StonePaperscisors.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\StonePaperscisors\obj\Debug\StonePaperscisors.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\StonePaperscisors\obj\Debug\StonePaperscisors.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\StonePaperscisors\obj\Debug\StonePaperscisors.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-20\StonePaperscisors\obj\Debug\StonePaperscisors.pdb

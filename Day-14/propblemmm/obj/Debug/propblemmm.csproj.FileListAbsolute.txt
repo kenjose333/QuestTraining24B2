@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\propblemmm\bin\Debug\propblemmm.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\propblemmm\bin\Debug\propblemmm.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\propblemmm\bin\Debug\propblemmm.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\propblemmm\obj\Debug\propblemmm.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\propblemmm\obj\Debug\propblemmm.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\propblemmm\obj\Debug\propblemmm.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\propblemmm\obj\Debug\propblemmm.pdb

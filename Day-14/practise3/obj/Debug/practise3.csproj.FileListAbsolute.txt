@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\practise3\bin\Debug\practise3.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\practise3\bin\Debug\practise3.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\practise3\bin\Debug\practise3.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\practise3\obj\Debug\practise3.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\practise3\obj\Debug\practise3.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\practise3\obj\Debug\practise3.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-14\practise3\obj\Debug\practise3.pdb
