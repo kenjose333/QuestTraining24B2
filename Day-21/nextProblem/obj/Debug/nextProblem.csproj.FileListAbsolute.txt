@@ -1,0 +1,11 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\bin\Debug\nextProblem.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\bin\Debug\nextProblem.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\bin\Debug\nextProblem.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\bin\Debug\log4net.dll
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\bin\Debug\log4net.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\bin\Debug\log4net.xml
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\obj\Debug\nextProblem.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\obj\Debug\nextProblem.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\obj\Debug\nextProb.D5596E34.Up2Date
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\obj\Debug\nextProblem.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-21\nextProblem\obj\Debug\nextProblem.pdb
