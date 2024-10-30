@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-22\EchoServer\bin\Debug\EchoServer.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-22\EchoServer\bin\Debug\EchoServer.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-22\EchoServer\bin\Debug\EchoServer.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-22\EchoServer\obj\Debug\EchoServer.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-22\EchoServer\obj\Debug\EchoServer.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-22\EchoServer\obj\Debug\EchoServer.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Day-22\EchoServer\obj\Debug\EchoServer.pdb
