@@ -1,0 +1,7 @@
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Nov 8\newProblem\bin\Debug\newProblem.exe.config
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Nov 8\newProblem\bin\Debug\newProblem.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Nov 8\newProblem\bin\Debug\newProblem.pdb
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Nov 8\newProblem\obj\Debug\OperatorOverloading.csproj.AssemblyReference.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Nov 8\newProblem\obj\Debug\OperatorOverloading.csproj.CoreCompileInputs.cache
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Nov 8\newProblem\obj\Debug\newProblem.exe
+C:\Users\91859\Documents\GitHub\QuestTraining24B2\Nov 8\newProblem\obj\Debug\newProblem.pdb
